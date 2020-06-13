@@ -1,8 +1,8 @@
-{
+ {
 "user": [ 
-{"id":1, "name": "Marine Mendez", "username": "MGMarines", "email": "marinem@gmail.com". "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
-{"id":2, "name": "Marine Mendez2", "username": "MGMarines2", "email": "marinem@gmail2.com". "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
-{"id":3, "name": "Marine Mendez3", "username": "MGMarines3", "email": "marinem@gmail3.com". "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id":1, "name": "Marine Mendez", "username": "MGMarines", "email": "marinem@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id":2, "name": "Marine Mendez2", "username": "MGMarines2", "email": "marinem@gmail2.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id":3, "name": "Marine Mendez3", "username": "MGMarines3", "email": "marinem@gmail3.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
 ],
  "posts": [
     { "id": 1, "title": "porque adptar animales", "body":  "poruqe  pienso que es importante.. ", "userId": 1 },
